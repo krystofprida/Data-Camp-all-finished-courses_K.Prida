@@ -4,9 +4,9 @@ A complete list of 19 completed courses focused on data analysis, machine learni
 
 ### Machine Learning & Modeling
 - [Fraud Detection in R]
-  https://www.datacamp.com/completed/statement-of-accomplishment/course/b9d64719bf9470373ae37d842b010e2d74886d66
+https://www.datacamp.com/completed/statement-of-accomplishment/course/b9d64719bf9470373ae37d842b010e2d74886d66
 - [Machine Learning with Tree-Based Models in R]
-- 
+
 - [Supervised Learning in R: Regression](URL)
 - [Supervised Learning in R: Classification](URL)
 - [Unsupervised Learning in R](URL)
